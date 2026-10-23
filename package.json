@@ -1,0 +1,14 @@
+{
+  "name": "bili-relay",
+  "version": "1.0.0",
+  "private": true,
+  "description": "B站解析中转服务",
+  "main": "relay.mjs",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node relay.mjs"
+  }
+}
